@@ -12,7 +12,7 @@ paginate = 2 # see https://gohugo.io/extras/pagination/
 # post excerpt
 summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
 # disable language
-disableLanguages = [
+disableLanguages = ["pl"
 ] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
 hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
 
@@ -20,14 +20,6 @@ hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/K
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 [languages]
-  [languages.pl]
-    contentDir = 'content/polish'
-    disabled = false
-    languageCode = 'pl-PL'
-    languageDirection = 'ltr'
-    languageName = 'PL'
-    title = 'TLBC.PL'
-    weight = 1
   [languages.en]
     contentDir = 'content/english'
     disabled = false
@@ -35,7 +27,7 @@ defaultContentLanguageInSubdir = true
     languageDirection = 'ltr'
     languageName = 'EN'
     title = 'TLBC.PL EN '
-    weight = 2
+    weight = 1
     [languages.en.params]
       subtitle = 'Reference, Tutorials, and Explanations'
 ########################### Services #############################

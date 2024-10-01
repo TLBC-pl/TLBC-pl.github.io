@@ -33,35 +33,35 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "https://outlook.office365.com/book/Letsdosomethinginteresting@tlbc.pl/"
 
   - title: "Source Code Review"
     image: "/images/service-3.png"
-    content: "Buying our experts "
+    content: "Let us examine the security of your codebase. This proactive service identifies weaknesses in your source code that could lead to vulnerabilities, ensures compliance with secure coding practices, and helps prevent potential exploitation by malicious actors. "
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Static Code Analysis"
+      - "Manual Code Review"
+      - "Third-party Library and Dependency Audits"
+      - "Security Configuration Review"
     button:
       enable: false
       label: ""
       link: ""
 
   - title: "Secure Design"
-    image: "/images/service-2.png"
+    image: "/images/service-4.png"
     content: "We paid for the knowledge with our time so you won't have to. "
     bulletpoints:
       - "Best practices"
-      - "Coverage of following languges: "
-      - "Mobile and Web development frmaeworks ."
+      - "Coverage of all popular languages"
+      - "Mobile and Web development frameworks"
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "https://outlook.office365.com/book/Letsdosomethinginteresting@tlbc.pl/"
 
   - title: "Other Services"
-    image: "/images/service-3.png"
+    image: "/images/service-5.png"
     content: "Still didn't find what you were looking for? Ping us - We will figure out the service offer carefuklly crafted for your needs. "
     bulletpoints:
       - "Threat Intelligence"

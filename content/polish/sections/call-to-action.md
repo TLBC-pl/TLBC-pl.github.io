@@ -6,7 +6,7 @@ description: "Experience the future of web development with Hugoplate and Hugo. 
 button:
   enable: true
   label: "Get Started Now"
-  link: "https://github.com/zeon-studio/hugoplate"
+  link: "https://outlook.office365.com/book/Letsdosomethinginteresting@tlbc.pl/"
 
 # don't create a separate page
 _build:

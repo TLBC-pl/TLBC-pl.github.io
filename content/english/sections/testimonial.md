@@ -1,5 +1,5 @@
 ---
-enable: true
+enable: false
 title: "Client Testimonials"
 description: "Discover what our satisfied clients have to say about their partnership with us in safeguarding their digital assets and protecting against cyber threats. "
 

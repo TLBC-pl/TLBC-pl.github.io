@@ -1,7 +1,7 @@
 ---
 title: Daniel Kalinowski
 email: daniel.kalinowski@tlbc.pl
-image: "/images/avatar.png"
+image: "/images/kalin.png"
 description: CEO & Security Researcher
 social:
   - name: github

@@ -1,7 +1,7 @@
 ---
 title: Foxtrot
 email: Foxtrot@tlbc.pl
-image: "/images/avatar.png"
+image: "/images/foxtrot.jpg"
 description: CTO & Security Researcher
 social:
   - name: github
