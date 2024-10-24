@@ -3,6 +3,7 @@ title: Foxtrot
 email: Foxtrot@tlbc.pl
 image: "/images/foxtrot.jpg"
 description: CTO & Security Researcher
+summary: IT security specialist with over 6 years of experience, specializing in hacking, industrial espionage countermeasures, software-defined radios, and hardware. Conducted multiple red team exercises and contributed to securing network infrastructures for large companies in Poland and globally. Represents Poland in the annual NATO Locked Shields exercise. In my spare time, I enjoy flying FPV drones, road cycling, and tinkering with electronics.
 social:
   - name: github
     icon: fa-brands fa-github
