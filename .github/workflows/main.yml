@@ -46,10 +46,6 @@ jobs:
           echo "export PATH=$PATH:/usr/local/go/bin" >> $GITHUB_ENV
           rm go${{ env.GO_VERSION }}.linux-amd64.tar.gz
           go version
-      - name: Install Hugo dep
-        run: |
-          hugo mod init
-          hugo mod get github.com/gethugothemes/hugo-modules/seo-tools/google-tag-manager
       - name: Setup Project
         run: npm run project-setup
 
