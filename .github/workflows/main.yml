@@ -39,7 +39,9 @@ jobs:
           sudo mv hugo /usr/local/bin/
           rm hugo_extended_${{ env.HUGO_VERSION }}_Linux-64bit.tar.gz
           hugo version
-
+      - name: Install Hugo dep
+        run: |
+          hugo mod get github.com/gethugothemes/hugo-modules/seo-tools/google-tag-manager
       - name: Install Go
         run: |
           curl -LO "https://dl.google.com/go/go${{ env.GO_VERSION }}.linux-amd64.tar.gz"
